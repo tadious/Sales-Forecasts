@@ -12,11 +12,13 @@ The service has 2 formats, json and html:
 JSON: 
 
 Make an http call to /lat/60.555/lon/24/sales-forecast.json
+
 Geographical position is supplied as parameters in the URL. In this case, latitude=60.555 and longitude=24
 
 HTML:
 
 Make an http call to /lat/60.555/lon/24/sales-forecast.html
+
 Geographical position is supplied as parameters in the URL. In this case, latitude=60.555 and longitude=24
 
 
