@@ -6,14 +6,17 @@ Installation
 Download and unpack files into domain root. For example api.quinyx.com/
 
 How to use:
+
 The service has 2 formats, json and html:
+
 JSON: 
+
 Make an http call to /lat/60.555/lon/24/sales-forecast.json
 Geographical position is supplied as parameters in the URL. In this case, latitude=60.555 and longitude=24
 
-HTML
-JSON: 
-Make an http call to /lat/60.555/lon/24/sales-forecast.json
+HTML:
+
+Make an http call to /lat/60.555/lon/24/sales-forecast.html
 Geographical position is supplied as parameters in the URL. In this case, latitude=60.555 and longitude=24
 
 
